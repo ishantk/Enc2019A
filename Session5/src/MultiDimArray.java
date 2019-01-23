@@ -65,6 +65,12 @@ public class MultiDimArray {
 		
 		// HW: Print 3-D Array with Loops
 		// Apply Enhanced For Loop on n-D Arrays
+		// nD Array is a Collection of n-1D Arrays i.e. 5D Array is a collection of 4D Arrays.
+		
+		
+		
+		
+		
 	}
 
 }
