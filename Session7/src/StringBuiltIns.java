@@ -77,7 +77,8 @@ public class StringBuiltIns {
 		int i = names.indexOf("Jennie"); // lastIndexOf()
 		System.out.println("i is: "+i);
 		
-
+		// Explore More Methods
+		
 	}
 
 }
