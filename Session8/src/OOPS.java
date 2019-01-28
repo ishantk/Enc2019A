@@ -53,7 +53,7 @@ public class OOPS {
 		uRef3.name = "John Watson";
 		
 		// Read Data from Object
-		System.out.println(uRef1.name+" is "+uRef3.age+" years old");
+		System.out.println(uRef3.name+" is "+uRef1.age+" years old");
 		System.out.println(uRef2.name+" is "+uRef2.age+" years old");
 		
 		// Delete Object
