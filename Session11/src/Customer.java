@@ -57,6 +57,10 @@ public class Customer {
 		
 		int total = 0;
 		
+		for(Order oRef : orders){
+			total = total + oRef.price;
+		}
+		
 		return total;
 		
 	}
